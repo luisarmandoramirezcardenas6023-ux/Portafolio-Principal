@@ -11,6 +11,7 @@
 | **[🏢 Arquitectura Smoke Shop](enlace-a-tu-repo)** | `MySQL` `Triggers` `Stored Procedures` | Diseño de base de datos relacional con sistema de auditoría automatizado para seguridad de transacciones. |
 | **[🧠 Clasificador de Big Data](enlace-a-tu-repo)** | `Machine Learning` `JavaScript` `TensorFlow` | Implementación de redes neuronales para la categorización automatizada de patrones masivos en tiempo real. |
 | **[🔄 Integración SQL a NoSQL](enlace-a-tu-repo)** | `Python` `MongoDB` `PyMongo` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
+| **[🔄 Integración SQL a NoSQL](enlace-a-tu-repo)** | `Python` `MongoDB` `PyMongo` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
 
 ---
 
