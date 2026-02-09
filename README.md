@@ -7,11 +7,11 @@
 
 | Proyecto | Stack Tecnológico | Impacto de Negocio |
 | :--- | :--- | :--- |
-| **[📦 Gestión de Almacén Inteligente](enlace-a-tu-repo)** | `Python` `JSON` `Pandas` | Automatización del ciclo de inventarios y generación de reportes financieros (Excel/PDF) con trazabilidad de préstamos. |
-| **[🏢 Arquitectura Smoke Shop](enlace-a-tu-repo)** | `MySQL` `Triggers` `Stored Procedures` | Diseño de base de datos relacional con sistema de auditoría automatizado para seguridad de transacciones. |
-| **[🧠 Clasificador de Big Data](enlace-a-tu-repo)** | `Machine Learning` `JavaScript` `TensorFlow` | Implementación de redes neuronales para la categorización automatizada de patrones masivos en tiempo real. |
-| **[🔄 Integración SQL a NoSQL](enlace-a-tu-repo)** | `Python` `MongoDB` `PyMongo` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
-| **[🔄 Integración SQL a NoSQL](enlace-a-tu-repo)** | `Python` `MongoDB` `PyMongo` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
+| **[📦 Gestión de Almacén Inteligente](https://github.com/luisarmandoramirezcardenas6023-ux/Sistema-de-Gestion_Inventario)** | `Python` `JSON` `Pandas` | Automatización del ciclo de inventarios y generación de reportes financieros (Excel/PDF) con trazabilidad de préstamos. |
+| **[🏢 Arquitectura Smoke Shop](https://github.com/luisarmandoramirezcardenas6023-ux/Base-de-Datos-Avanzadas-Proyecto-Final)** | `MySQL` `Triggers` `Stored Procedures` | Diseño de base de datos relacional con sistema de auditoría automatizado para seguridad de transacciones. |
+| **[🧠 Clasificador de Big Data](https://github.com/luisarmandoramirezcardenas6023-ux/Juego_BigData)** | `Machine Learning` `JavaScript` `TensorFlow` | Implementación de redes neuronales para la categorización automatizada de patrones masivos en tiempo real. |
+| **[🔄 Integración SQL a NoSQL](https://github.com/luisarmandoramirezcardenas6023-ux/Programa-de-ETL)** | `Python` `MongoDB` `PyMongo` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
+| **[🌐 Conciencia y Corazon ](https://github.com/luisarmandoramirezcardenas6023-ux/Conciencia-corazon-wp.)** | `WordPress` `HTML` `Java` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
 
 ---
 
@@ -39,8 +39,7 @@
 ---
 
 ## 📫 Conecta conmigo
-* **LinkedIn:** [Tu Perfil de LinkedIn]
-* **Blog Profesional:** [Conciencia y Corazón - WordPress](https://concienciaycorazon1.wordpress.com/)
+* **LinkedIn:** https://www.linkedin.com/in/luis-armando-ramirez-cardenas-53712035b/
 
 ---
 *“Transformando la complejidad técnica en claridad estratégica para los negocios.”*
