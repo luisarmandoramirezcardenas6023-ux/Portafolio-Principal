@@ -11,7 +11,7 @@
 | **[🏢 Arquitectura Smoke Shop](https://github.com/luisarmandoramirezcardenas6023-ux/Base-de-Datos-Avanzadas-Proyecto-Final)** | `MySQL` `Triggers` `Stored Procedures` | Diseño de base de datos relacional con sistema de auditoría automatizado para seguridad de transacciones. |
 | **[🧠 Clasificador de Big Data](https://github.com/luisarmandoramirezcardenas6023-ux/Juego_BigData)** | `Machine Learning` `JavaScript` `TensorFlow` | Implementación de redes neuronales para la categorización automatizada de patrones masivos en tiempo real. |
 | **[🔄 Integración SQL a NoSQL](https://github.com/luisarmandoramirezcardenas6023-ux/Programa-de-ETL)** | `Python` `MongoDB` `PyMongo` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
-| **[🌐 Conciencia y Corazon ](https://github.com/luisarmandoramirezcardenas6023-ux/Conciencia-corazon-wp.)** | `WordPress` `HTML` `Java` | Script de automatización ETL para la migración y escalabilidad de datos entre entornos relacionales y documentales. |
+| **[🌐 Conciencia y Corazon ](https://github.com/luisarmandoramirezcardenas6023-ux/Conciencia-corazon-wp.)** | `WordPress` `HTML` `Java` | Pagina web tipo blog personal desarrollado en Wordpress como actividad de Servicio Social Profesional. |
 
 ---
 
