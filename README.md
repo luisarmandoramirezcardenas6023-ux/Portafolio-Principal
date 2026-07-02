@@ -40,10 +40,23 @@
 ---
 
 ## 📈 Formación y Certificaciones
-* **UABC:** Estudiante de 8vo y último semestre en Inteligencia de Negocios.
-* **Google:** Certificaciones profesionales en **Data Analytics** y **Project Management**.
-* **Agilidad:** Certificado en **Scrum Fundamentals** para gestión de proyectos dinámicos.
 
+### **Formación Académica**
+* **UABC:** Estudiante de 8vo y último semestre de la Licenciatura en Inteligencia de Negocios.
+
+### **Certificaciones Profesionales (12)**
+1. **Google:** Advanced Data Analytics Professional Certificate
+2. **Google:** AI Essentials
+3. **Google:** AI Professional Certificate
+4. **Google:** Business Intelligence Professional Certificate
+5. **Google:** Cybersecurity Professional Certificate
+6. **Google:** Data Analytics Professional Certificate
+7. **Google:** IT Automation with Python
+8. **Google:** Project Management Professional Certificate
+9. **Google:** UX Design Professional Certificate
+10. **IBM:** Data Science Professional Certificate
+11. **Java:** Java Programming Fundamentals
+12. **SCRUMstudy:** Scrum Fundamentals Certified (SFC)
 ---
 
 ## 📫 Conecta conmigo
