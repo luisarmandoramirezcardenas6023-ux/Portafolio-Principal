@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos - Portafolio
 
 | Proyecto | Stack Tecnológico | Impacto de Negocio |
 | :--- | :--- | :--- |
