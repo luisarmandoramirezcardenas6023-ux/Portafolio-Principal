@@ -8,6 +8,7 @@
 
 | Proyecto | Stack Tecnológico | Impacto de Negocio |
 | :--- | :--- | :--- |
+| **[✈️ Pipeline ETL Data Vault 2.0](https://github.com/luisarmandoramirezcardenas6023-ux/Aviation-Data-Vault-ETL-Pipeline-Analisis-de-Datos-)** | `Python` `Kaggle API` `Plotly` | Pipeline ETL para auditoría de vuelos. Automatiza la ingesta desde Kaggle, implementa arquitectura Data Vault 2.0 y genera dashboards interactivos. |
 | **[📈 Modelo Predictivo de Churn](https://github.com/luisarmandoramirezcardenas6023-ux/Proyecto_Ciencia_de_Datos)** | `Python` `Scikit-Learn` `Pandas` | Modelo de clasificación de Machine Learning para predecir la fuga de clientes y optimizar estrategias de retención empresarial. |
 | **[📦 Gestión de Almacén Inteligente](https://github.com/luisarmandoramirezcardenas6023-ux/Sistema-de-Gestion_Inventario)** | `Python` `JSON` `Pandas` | Automatización del ciclo de inventarios y generación de reportes financieros (Excel/PDF) con trazabilidad de préstamos. |
 | **[🏢 Arquitectura Smoke Shop](https://github.com/luisarmandoramirezcardenas6023-ux/Base-de-Datos-Avanzadas-Proyecto-Final)** | `MySQL` `Triggers` `Stored Procedures` | Diseño de base de datos relacional con sistema de auditoría automatizado para seguridad de transacciones. |
