@@ -60,7 +60,7 @@
 12. **SCRUMstudy:** Scrum Fundamentals Certified (SFC)
 ---
 
-## 💻 Pagina Propia
+## 💻 Pagina Personal
 * **LinkedIn:** https://luisarmandoramirezcardenas6023-ux.github.io/Trabajo/
 
 ## 📫 Conecta conmigo
