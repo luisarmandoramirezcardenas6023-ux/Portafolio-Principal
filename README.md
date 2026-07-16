@@ -61,7 +61,7 @@
 ---
 
 ## 💻 Pagina Personal
-* **LinkedIn:** https://luisarmandoramirezcardenas6023-ux.github.io/Trabajo/
+* **Web:** https://luisarmandoramirezcardenas6023-ux.github.io/Trabajo/
 
 ## 📫 Conecta conmigo
 * **LinkedIn:** https://www.linkedin.com/in/luis-armando-ramirez-cardenas-53712035b/
